@@ -5,7 +5,7 @@ This repository contains the intro project for radio collar telemetry tracking t
 <ol>
   <li> Fork this project on Github</li>
   <li> Clone your fork </li>
-  <li> Check out the `project` tag </li>
+  <li> Check out the <code>project</code> tag </li>
 </ol> 
     
 
